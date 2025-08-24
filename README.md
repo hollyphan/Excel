@@ -1,39 +1,49 @@
-# Coffee Sales Dashboard (Excel Portfolio Project)
+# ☕ Coffee Sales Dashboard (Excel Project)
 
-## Project Overview  
-The goal of this dashboard is to analyze coffee sales performance across multiple dimensions (time, geography, product type, and customer behavior) and present it in an interactive and visually engaging way for business decision making.  
+**Date:** Aug 2025  
 
----
+## 📌 Project Overview
+This project is an **interactive Excel dashboard** that analyzes coffee sales data across **regions, product types, and customer loyalty segments**.  
 
-## Business Problem  
-Coffee retailers often struggle to quickly understand:  
-- Which products drive the most revenue  
-- How sales vary across regions  
-- The impact of customer loyalty programs  
-- Seasonal or monthly sales performance  
+The goal of the dashboard is to provide business leaders with **actionable insights** on revenue drivers, customer behavior, and sales performance trends.  
 
-This dashboard addresses these questions by creating a self service reporting tool for stakeholders.  
-
----
-
-## Tools & Skills Demonstrated  
-- Excel  
-  - Pivot Tables & Pivot Charts  
-  - Slicers & Timelines for interactivity  
-  - XLOOKUP, INDEX-MATCH, IF, IFERROR  
-  - Conditional formatting for visual cues  
-- Dashboard Design  
-  - Custom color scheme and layout (personalized appearance)  
-  - Consistent formatting for professional presentation  
-- Data Analysis  
-  - Trend analysis over time  
-  - Customer segmentation (loyalty vs. non-loyalty)  
-  - Sales by roast type, size, and country  
+This project demonstrates my ability to:  
+- Build dynamic dashboards using **PivotTables, PivotCharts, and Slicers**  
+- Apply **advanced Excel formulas** for data cleaning and transformation  
+- Present data in a **clean, professional, and customizable format**  
+- Translate raw sales data into **business insights and recommendations**  
 
 ---
 
-## Key Insights  
-- USA generated the highest revenue compared to other regions.  
-- Loyalty customers contributed significantly to repeat purchases.  
-- Dark Roast and Espresso were consistently top performing categories.  
-- Seasonal trends show peak sales in winter months.  
+## 🛠 Tools & Skills Used
+- **Microsoft Excel**  
+  - PivotTables & PivotCharts  
+  - Advanced formulas (INDEX/MATCH, VLOOKUP, SUMIFS, etc.)  
+  - Slicers & data filters  
+  - Conditional formatting  
+- **Data Analysis**  
+  - Trend identification  
+  - Regional & product performance analysis  
+  - Customer segmentation  
+
+---
+
+## 📊 Key Insights
+- **Regional Trends:** Certain regions consistently outperformed others, signaling where expansion efforts should be focused.  
+- **Product Analysis:** Espresso-based products accounted for the highest percentage of total sales, indicating strong consumer demand.  
+- **Customer Loyalty:** Repeat customers generated a significant portion of revenue, highlighting the importance of loyalty programs.  
+
+---
+
+## 📸 Dashboard Preview
+ 
+
+
+---
+
+## 🚀 Business Impact
+If implemented in a real-world coffee retail business, this dashboard would:  
+- Allow management to **quickly identify top-performing products and regions**  
+- Help marketing teams **target high-value customer segments**  
+- Support finance and operations teams with **monthly KPI reporting**  
+
