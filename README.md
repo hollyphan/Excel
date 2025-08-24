@@ -37,7 +37,7 @@ This project demonstrates my ability to:
 
 ## 📸 Dashboard Preview
  
-
+![Image Alt](https://github.com/hollyphan/Excel/blob/b92e78af1cd1815e4bb062e5d9040a785fdbc1aa/Coffee%20Dashboard.png)
 
 ---
 
